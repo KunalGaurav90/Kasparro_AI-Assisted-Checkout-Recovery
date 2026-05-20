@@ -82,10 +82,10 @@ git clone https://github.com/rishavsingh1k/AI_checker
 cd AI_checker
 ```
 
-2. Open the frontend directly in your browser:
+2. Open the frontend code in your browser:
 
 ```
-frontend/index.html
+kas.html
 ```
 
 ### Option B — Run Full Stack
@@ -119,3 +119,6 @@ uvicorn backend.main:app --reload
 ```
 
 The architecture intentionally separates frontend interaction handling from backend intelligence — improving scalability and reflecting how real-world ecommerce platforms are structured.
+
+DEMO LINK (Project narration with screen recording)
+-------------https://drive.google.com/file/d/1nWrwWWyrEEhUvK1AFgUMx1tlzFOPEHIE/view?usp=sharing--------------------------
